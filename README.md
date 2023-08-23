@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm yubrew
 
 - I'm currently working on ✨ _Stargaze_ ✨
-- 💬 Ask me about NFTs, Cosmos smart contracts
+- 💬 Ask me about AI, NFTs, and crypto smart contracts
 
 <!--
 **yubrew/yubrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
