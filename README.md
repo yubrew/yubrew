@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm yubrew
 
-- I'm currently working on ✨ _Stargaze_ ✨
-- 💬 Ask me about AI, NFTs, and crypto smart contracts
-
+- I'm currently working on [⛓️ChainDefender⛓️](https://chaindefender.ai)
+- 💬 Ask me about AI, crypto smart contracts
+- [📫 🐦](https://x.com/yubrew)
+- Live in 🗽 NY
 <!--
 **yubrew/yubrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
