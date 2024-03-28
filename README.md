@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm yubrew
 
-- I'm currently working on [⛓️ChainDefender⛓️](https://chaindefender.ai)
-- 💬 Ask me about AI, crypto smart contracts
+- I'm currently working on
+- 💬 Ask me 
 - [📫 🐦](https://x.com/yubrew)
 - Live in 🗽 NY
 <!--
