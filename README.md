@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm yubrew
 
-- I'm currently working on
+- I'm currently working on [bitsec.ai](https://x.com/bitsecai)
 - 💬 Ask me 
 - [📫 🐦](https://x.com/yubrew)
 - Live in 🗽 NY
